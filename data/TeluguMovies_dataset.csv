@@ -1,0 +1,1401 @@
+,Movie,Genre,Rating
+0,Bahubali: The Beginning,"Action, Drama            ",8.1
+1,Baahubali 2: The Conclusion,"Action, Drama            ",8.2
+2,1 - Nenokkadine,"Action, Thriller            ",8.1
+3,Dhoom:3,"Action, Thriller            ",5.4
+4,Ra.One,"Action, Adventure, Sci-Fi            ",4.6
+5,Dhoom:2,"Action, Thriller            ",6.5
+6,Eega,"Action, Fantasy            ",7.7
+7,Krrish 3,"Action, Sci-Fi            ",5.2
+8,Arjun Reddy,"Action, Drama, Romance            ",8.1
+9,Rangasthalam,"Action, Drama            ",8.4
+10,Magadheera,"Action, Drama, Fantasy            ",7.6
+11,War,"Action, Thriller            ",6.5
+12,Bharat Ane Nenu,"Action, Drama            ",7.7
+13,Saaho,"Action, Thriller            ",5.2
+14,Theri,"Action, Drama            ",7.1
+15,Dookudu,"Action, Comedy            ",7.4
+16,Pokiri,"Action, Thriller            ",7.9
+17,Sarkar,"Action, Drama            ",6.8
+18,Athadu,"Action, Thriller            ",8.2
+19,The Ghazi Attack,"Action, Thriller, War            ",7.6
+20,Kabali,"Action, Crime, Drama            ",6.2
+21,MSG: The Messenger of God,"Action, Comedy, Drama            ",5.9
+22,Nanban,"Comedy, Drama            ",7.4
+23,Srimanthudu,"Action, Drama            ",7.5
+24,Veer - Vivegam,"Action, Thriller            ",5.6
+25,Billa 2,"Action, Thriller            ",6.2
+26,Manam,"Comedy, Drama, Fantasy            ",8
+27,7 Aum Arivu,"Action, Sci-Fi, Thriller            ",6.2
+28,Bigil,"Action, Drama, Sport            ",6.8
+29,Business Man,"Action, Crime            ",7.1
+30,Geetha Govindam,"Drama, Romance            ",7.7
+31,Mahanati,"Biography, Drama            ",8.5
+32,Spyder,"Action, Thriller            ",6.6
+33,Nannaku Prematho,"Action, Drama, Thriller            ",7.6
+34,Dabangg 3,"Action, Comedy            ",3.3
+35,MSG 2 the Messenger,"Comedy, Drama, Fantasy            ",6.7
+36,Manikarnika: The Queen of Jhansi,"Action, Biography, Drama            ",6.4
+37,Race Gurram,"Action, Comedy            ",7.2
+38,Okkadu,"Action, Romance, Sport            ",8
+39,Bommarillu,"Comedy, Drama, Romance            ",8.2
+40,Atharintiki Daaredi,"Comedy, Drama            ",7.2
+41,Khaleja,"Action, Comedy, Fantasy            ",7.5
+42,Yennai Arindhaal,"Action, Thriller            ",7.3
+43,Thalaivaa,"Action, Drama, Thriller            ",6.1
+44,Kaala,"Action, Drama            ",6.7
+45,Bairavaa,"Action, Thriller            ",5.9
+46,Goodachari,"Action, Thriller            ",7.8
+47,Puli,"Action, Adventure, Fantasy            ",4.4
+48,Pulimurugan,Action            ,6.8
+49,Veeram,Action            ,6.5
+50,Vedam,"Action, Drama            ",8.1
+51,Yevadu,"Action, Thriller            ",5.6
+52,Aravindha Sametha Veera Raghava,"Action, Drama            ",7.7
+53,Billa,"Action, Thriller            ",7.2
+54,Jersey,"Drama, Sport            ",8.6
+55,Sye Raa Narasimha Reddy,"Action, Adventure, Drama            ",7.5
+56,Ala Vaikunthapurramuloo,"Action, Drama            ",7.2
+57,Janatha Garage,"Action, Drama            ",7.3
+58,Gabbar Singh,"Action, Comedy            ",7.1
+59,Temper,"Action, Drama            ",7.4
+60,Game Over,"Drama, Thriller            ",7.1
+61,Singam 2,"Action, Thriller            ",6.3
+62,Dhruva,"Action, Thriller            ",7.9
+63,Jalsa,"Action, Comedy            ",7.3
+64,Maharshi,"Action, Drama            ",7.3
+65,Pelli Choopulu,"Comedy, Drama, Romance            ",8.2
+66,Arya 2,"Action, Comedy            ",7.4
+67,Chekka Chivantha Vaanam,"Action, Crime, Drama            ",7.3
+68,Naa Peru Surya Na Illu India,"Action, Drama            ",6.8
+69,Ki & Ka,"Comedy, Romance            ",5.8
+70,Seethamma Vakitlo Sirimalle Chettu,"Comedy, Drama, Family            ",7.5
+71,Singam 3,"Action, Thriller            ",6.3
+72,Agent Sai Srinivasa Athreya,"Action, Comedy, Crime            ",8.5
+73,Jai Lava Kusa,"Action, Drama            ",7
+74,Arya,"Action, Drama, Romance            ",7.8
+75,Maattrraan,"Action, Sci-Fi, Thriller            ",5.9
+76,Kochadaiiyaan,"Animation, Action            ",6.3
+77,Thaanaa Serndha Koottam,"Action, Comedy, Crime            ",6.8
+78,OK Kanmani,Romance            ,7.4
+79,Dear Comrade,"Action, Drama, Romance            ",7.3
+80,Happy Days,Drama            ,7.9
+81,Sarileru Neekevvaru,"Action, Comedy, Drama            ",6.1
+82,Julayi,"Action, Comedy            ",7.2
+83,Kshanam,Thriller            ,8.3
+84,Oopiri,"Comedy, Drama            ",8
+85,Baadshah,"Action, Comedy            ",6.4
+86,3,"Drama, Mystery, Romance            ",7.2
+87,Sarrainodu,"Action, Drama            ",6.4
+88,Kick,"Action, Comedy            ",7.8
+89,Leader,Drama            ,8
+90,Anjaan,"Action, Musical, Thriller            ",5
+91,Khushi,"Drama, Romance            ",7.9
+92,Maya Bazaar,"Comedy, Drama, Family            ",9.2
+93,Rakhta Charitra,"Action, Biography, Crime            ",7.6
+94,Mirchi,"Action, Drama            ",7.2
+95,Chatrapathi,"Action, Drama            ",7.6
+96,C/o Kancharapalem,Drama            ,9
+97,Sachein,"Comedy, Drama, Romance            ",6.9
+98,Murari,"Drama, Romance, Thriller            ",7.8
+99,Vikramarkudu,Action            ,7.7
+100,Kuruthipunal,"Action, Drama, Thriller            ",8.5
+101,Brindaavanam,"Action, Comedy, Drama            ",7.1
+102,Panjaa,"Action, Thriller            ",6.5
+103,Nuvvu Naaku Nachchav,"Musical, Comedy, Family            ",8.7
+104,Gopala Gopala,"Comedy, Drama, Fantasy            ",7.3
+105,Kaappaan,"Action, Thriller            ",6.4
+106,Aagadu,"Action, Comedy            ",5.4
+107,Masss,"Action, Comedy, Horror            ",6
+108,Maanagaram,"Action, Thriller            ",8.1
+109,Drushyam,"Crime, Drama, Family            ",8.3
+110,Yamadonga,"Action, Comedy, Fantasy            ",7.3
+111,S/O Satyamurthy,"Action, Drama            ",6.9
+112,Tholi Prema,"Drama, Romance            ",8.2
+113,Awe!,Thriller            ,7.8
+114,Yatra,"Biography, Drama, Romance            ",8.2
+115,Fidaa,"Drama, Romance            ",7.5
+116,Oosaravelli,"Action, Thriller            ",6.6
+117,Evaru,"Crime, Drama, Thriller            ",8.2
+118,Odiyan,"Action, Drama, Fantasy            ",5.5
+119,Khaidi No 150,"Action, Drama            ",6
+120,NGK,"Action, Drama            ",6
+121,Duvvada Jagannadham,"Action, Comedy            ",5.6
+122,Bale Bale Magadivoy,"Comedy, Romance            ",7.8
+123,Shiva,"Action, Crime, Drama            ",8.1
+124,Manmadhudu,"Comedy, Romance            ",8.3
+125,Mr Perfect,"Drama, Romance            ",7.1
+126,Orange,"Comedy, Drama, Romance            ",6.6
+127,Anirudh,"Action, Drama, Family            ",4.3
+128,Gamyam,Drama            ,8.3
+129,Kanche,"Action, Drama, History            ",7.9
+130,Naayak,Action            ,5.5
+131,Malliswari,"Comedy, Romance            ",7.8
+132,Nuvvostanante Nenoddantana,Romance            ,7.7
+133,Ye Maaya Chesave,Romance            ,7.7
+134,Sagara Sangamam,"Musical, Romance, Drama            ",8.8
+135,Rudhramadevi,"Action, Biography, History            ",5.8
+136,Cameraman Gangatho Rambabu,"Action, Drama            ",5.7
+137,Majili,"Drama, Romance            ",7.2
+138,Uttama Villain,"Comedy, Drama            ",7.2
+139,Arundhati,"Horror, Mystery, Thriller            ",7.3
+140,Agnyaathavaasi,"Action, Drama            ",4.5
+141,Pilla Zamindar,"Comedy, Drama            ",7.7
+142,100% Love,"Comedy, Drama, Romance            ",7
+143,Aa Naluguru,Drama            ,8.5
+144,Darling,"Comedy, Drama, Romance            ",7.3
+145,Aha Naa Pellanta,Comedy            ,8.9
+146,Vinaya Vidheya Rama,Action            ,3.3
+147,Happy,"Action, Comedy, Drama            ",7
+148,Ala Modalaindi,"Comedy, Drama, Romance            ",7.7
+149,Prasthanam,"Action, Drama            ",8.3
+150,Dhee,Comedy            ,7.4
+151,Iddarammayilatho,"Action, Thriller            ",5.7
+152,Simhadri,"Action, Drama            ",7.4
+153,Taxiwaala,"Comedy, Horror, Thriller            ",7
+154,Parugu,"Action, Romance            ",7
+155,Rakhta Charitra 2,"Action, Biography, Crime            ",6.4
+156,Maryada Ramanna,"Action, Comedy, Drama            ",7.4
+157,Rachcha,Action            ,4.3
+158,HIT,"Crime, Drama, Mystery            ",7.8
+159,Nota,Drama            ,6.4
+160,U Turn,"Mystery, Thriller            ",7
+161,Thammudu,"Action, Drama, Sport            ",7.8
+162,Zanjeer,"Action, Drama            ",3.2
+163,Ezra,"Horror, Mystery, Thriller            ",6.7
+164,Bhaagamathie,"Action, Horror, Thriller            ",7
+165,Adhurs,"Action, Comedy, Thriller            ",6.7
+166,Aditya 369,"Family, Sci-Fi, Adventure            ",8.4
+167,Sardaar Gabbar Singh,"Action, Comedy            ",4.8
+168,Gitanjali,"Drama, Romance            ",8.2
+169,Ninnu Kori,"Comedy, Romance            ",7.6
+170,Indra,"Action, Drama            ",7.4
+171,Vishwaroopam 2,"Action, Thriller            ",5.9
+172,Oru Adaar Love,"Comedy, Romance            ",5.5
+173,Tholi Prema,Romance            ,7.3
+174,Brochevarevarura,Comedy            ,8
+175,7/G Rainbow Colony,"Drama, Romance            ",7.8
+176,Tagore,"Action, Drama            ",7.8
+177,Gang Leader,"Action, Comedy            ",7.6
+178,Bujjigaadu: Made in Chennai,"Action, Drama            ",6.4
+179,Sye,"Action, Drama, Sport            ",7.4
+180,Yevade Subramanyam,"Adventure, Comedy, Drama            ",7.6
+181,Mathu Vadalara,"Comedy, Crime, Thriller            ",8.3
+182,Katamarayudu,"Action, Comedy            ",5.7
+183,Maari 2,"Action, Comedy            ",5.6
+184,Gautamiputra Satakarni,"Action, History            ",6.5
+185,Rx 100,"Action, Drama, Romance            ",6.9
+186,A... Aa,"Comedy, Romance            ",6.8
+187,Aalavandhan,"Action, Thriller            ",7.1
+188,F2: Fun and Frustration,Comedy            ,6.2
+189,The House Next Door,Horror            ,6.8
+190,Krishna Gaadi Veera Prema Gaadha,"Action, Comedy, Romance            ",7.5
+191,Prince,"Action, Sci-Fi, Thriller            ",4.2
+192,Sankarabharanam,"Drama, Musical, Romance            ",8.7
+193,Thoongaavanam,"Action, Thriller            ",7
+194,Govindudu Andari Vaadele,"Action, Drama            ",5.6
+195,Anand,"Comedy, Drama, Musical            ",7.8
+196,Raja Kumarudu,"Comedy, Drama, Romance            ",6.7
+197,Baba,"Action, Drama, Fantasy            ",5.1
+198,Dhammu,"Action, Drama            ",5.2
+199,Ramayya Vastavayya,"Action, Drama            ",5.1
+200,NTR: Kathanayakudu,"Biography, Drama            ",5.7
+201,Chirutha,Action            ,5.3
+202,Thaandavam,"Action, Thriller            ",6.1
+203,Athidhi,Action            ,5.5
+204,Kshana Kshanam,"Comedy, Crime, Drama            ",8.1
+205,Penguin,"Drama, Mystery, Thriller            ",4.6
+206,Rudra Veena,"Drama, Musical            ",8.5
+207,Legend,"Action, Drama            ",6.3
+208,Annamayya,"Biography, History, Musical            ",8
+209,Badrinath,Action            ,4.3
+210,Nenu Local,"Action, Comedy, Romance            ",6.4
+211,Oh Baby...,"Comedy, Drama, Fantasy            ",7.4
+212,Sketch,Action            ,5.7
+213,Hello Guru Prema Kosame,"Comedy, Romance            ",7.1
+214,Rabhasa,"Action, Comedy            ",4.9
+215,Sainikudu,Action            ,5.1
+216,Ishq,"Comedy, Romance            ",7.3
+217,Arjun,Action            ,6.5
+218,Badri,"Comedy, Drama, Romance            ",7.1
+219,Krishnarjuna,"Comedy, Drama, Romance            ",4.9
+220,Hello,"Action, Romance            ",7.2
+221,Saleem,"Action, Comedy            ",4.6
+222,Nijam,Action            ,6.6
+223,Bruce Lee: The Fighter,"Action, Comedy            ",5.5
+224,MCA Middle Class Abbayi,"Action, Comedy            ",5.8
+225,Ee Nagaraniki Emaindi,"Comedy, Drama            ",7.9
+226,Nenu Sailaja,"Action, Comedy, Romance            ",6.9
+227,Gentleman,"Mystery, Romance, Thriller            ",7.1
+228,Student No. 1,"Action, Crime, Drama            ",6.8
+229,Kumari 21F,"Drama, Romance            ",7.8
+230,Billa,"Action, Thriller            ",6.1
+231,Love Ke Liye Kuch Bhi Karega,"Comedy, Crime, Romance            ",6
+232,Run Baby Run,"Action, Comedy, Thriller            ",6.6
+233,Chitralahari,Drama            ,7.2
+234,Shankar Dada MBBS,Comedy            ,7.4
+235,Teen Maar,"Comedy, Drama, Romance            ",5.6
+236,Kanthaswamy,Action            ,5
+237,Komaram Puli,"Action, Crime, Thriller            ",3.5
+238,Rebel,"Action, Comedy, Drama            ",4.7
+239,iSmart Shankar,"Action, Sci-Fi            ",5.5
+240,Anukokunda Oka Roju,"Mystery, Thriller            ",8
+241,Bheeshma,"Action, Comedy, Romance            ",6.6
+242,Karthikeya,"Mystery, Thriller            ",7.4
+243,Desamuduru,"Action, Drama            ",6.1
+244,Gunde Jaari Gallanthayyinde,"Comedy, Drama, Romance            ",7.1
+245,Pailwan,"Action, Drama, Sport            ",6.4
+246,World Famous Lover,Romance            ,4.6
+247,Theeya Velai Seiyyanum Kumaru,Comedy            ,6.1
+248,Raja The Great,"Action, Comedy            ",6.5
+249,Kadaram Kondan,"Action, Thriller            ",5.7
+250,Sammohanam,Romance            ,7.6
+251,Simha,"Action, Drama            ",5.8
+252,Aithe,"Action, Adventure, Thriller            ",8.1
+253,Takkari Donga,"Action, Adventure, Comedy            ",6.8
+254,Kadhalil Sodhappuvadhu Yeppadi,"Comedy, Romance            ",7.1
+255,Pammal K. Sambandam,"Comedy, Musical            ",7.1
+256,Kanchana 2,"Comedy, Horror            ",5.5
+257,Saroja,"Adventure, Comedy, Crime            ",7.1
+258,Vel,"Action, Comedy, Drama            ",6
+259,Pandavulu Pandavulu Thummeda,Comedy            ,6.4
+260,Doosukeltha,"Action, Comedy            ",6.7
+261,Gundamma Katha,"Comedy, Drama            ",8.8
+262,Oohalu Gusagusalade,"Comedy, Romance            ",7.7
+263,Rowdy,"Action, Crime, Drama            ",6.4
+264,Devadas,"Action, Comedy, Drama            ",6.7
+265,Sokkali Mainor,"Comedy, Drama            ",6.4
+266,Dhenikaina Ready,"Action, Comedy            ",6.1
+267,Political Rowdy,Action            ,5.2
+268,Anukshanam,"Crime, Thriller            ",6.5
+269,Stalin,"Action, Drama            ",5.9
+270,Godavari,"Drama, Romance            ",7.8
+271,Suryam,"Action, Romance            ",5.1
+272,Balu,"Action, Crime            ",6
+273,Savyasachi,Action            ,5.4
+274,Nene Raju Nene Mantri,"Action, Thriller            ",5.8
+275,Varsham,"Action, Comedy, Romance            ",7.1
+276,Kaashmora,"Action, Comedy, Fantasy            ",5.5
+277,Run Raja Run,"Comedy, Drama            ",7.4
+278,Abhiyum Naanum,"Comedy, Drama, Family            ",7.6
+279,Eedo Rakam Aado Rakam,"Comedy, Romance            ",7
+280,Asthram,"Action, Crime, Thriller            ",5.8
+281,Ready,"Action, Comedy            ",7.2
+282,Irandam Ulagam,"Action, Fantasy, Romance            ",5.7
+283,Sree,Action            ,5.3
+284,Aadi,"Action, Drama, Romance            ",7.2
+285,Jhummandi Naadam,Drama            ,5.3
+286,Pandurangadu,"Drama, Fantasy            ",5.2
+287,Naani,Romance            ,5.2
+288,Game,Thriller            ,5.1
+289,Shatamanam Bhavati,Drama            ,7
+290,Mass,"Action, Drama            ",6.4
+291,Swamy Ra Ra,Crime            ,7.3
+292,Ekkadiki Pothavu Chinnavada,"Comedy, Fantasy, Romance            ",7.5
+293,Amazon Obhijaan,"Action, Adventure            ",4.7
+294,Chi La Sow,"Comedy, Romance            ",7.8
+295,Kaathala Kaathala,"Comedy, Drama, Romance            ",7.5
+296,Kanchana 3,"Action, Comedy, Horror            ",4.2
+297,Vishnu,"Action, Romance            ",5.5
+298,Rakhi,"Action, Drama            ",6.3
+299,Oh My Friend,Romance            ,6.6
+300,Balupu,"Action, Comedy            ",6
+301,Aadavari Matalaku Ardhalu Verule,"Comedy, Drama, Romance            ",7.4
+302,Prayanam,Romance            ,7.1
+303,Antariksham 9000 kmph,"Adventure, Drama, Sci-Fi            ",6
+304,Konchem Ishtam Konchem Kashtam,Romance            ,7
+305,Jamba Lakidi Pamba,Comedy            ,8.2
+306,Kotigobba 2,"Action, Drama, Thriller            ",6.5
+307,Kaadhal,Romance            ,7.5
+308,Current Theega,"Action, Comedy, Romance            ",5.6
+309,MalliRaava,"Drama, Romance            ",8
+310,Saahasam Swaasaga Saagipo,"Action, Romance            ",6.9
+311,Premam,"Comedy, Drama, Romance            ",6.5
+312,Johnny,"Action, Drama            ",5.4
+313,King,"Action, Comedy, Crime            ",6.5
+314,Endrendrum Punnagai,"Comedy, Romance            ",6.7
+315,Mugamoodi,"Action, Adventure            ",4.9
+316,NTR Mahanayakudu,"Biography, Drama            ",5.4
+317,PSV Garuda Vega,"Action, Drama            ",7.9
+318,Kurukshetra,"History, War            ",6.9
+319,Uu Kodathara Ulikki Padathara,"Action, Drama, Fantasy            ",4.9
+320,Mr. Nookayya,"Action, Comedy            ",6.3
+321,Mirapakai,"Action, Comedy, Drama            ",6.3
+322,Nenu Meeku Telusa...?,Thriller            ,6.9
+323,Satya 2,"Action, Crime, Drama            ",6
+324,Pooja,"Action, Drama            ",5
+325,Naan Sigappu Manithan,"Action, Drama, Thriller            ",6.5
+326,Sakthi,"Action, Fantasy            ",3.5
+327,Uyyala Jampala,"Drama, Family, Romance            ",7.2
+328,Khadgam,"Action, Crime, Drama            ",7.7
+329,Major Chandrakanth,"Action, Drama, Thriller            ",7.3
+330,Bachchan,"Action, Crime, Thriller            ",6.6
+331,Manu,"Mystery, Romance, Thriller            ",8
+332,Hyderabad Blues,"Comedy, Drama, Romance            ",7.2
+333,Bunny,"Action, Drama            ",5.7
+334,Ragile Gundelu,Drama            ,4.4
+335,Sri Rama Rajyam,"Drama, Fantasy            ",6.7
+336,Varudu,"Action, Drama, Thriller            ",3.5
+337,Rakshasudu,"Action, Crime, Thriller            ",8.2
+338,Gharshana,"Action, Crime, Drama            ",7.3
+339,Gaganam,"Action, Crime, Thriller            ",7.1
+340,Amar Akbar Anthony,Action            ,4.3
+341,Kathakali,"Action, Thriller            ",6.5
+342,Krishnarjuna Yudham,"Action, Comedy            ",5.6
+343,Express Raja,"Action, Comedy, Romance            ",7.1
+344,Kuselan,"Comedy, Drama, Family            ",4.7
+345,Don,"Action, Crime, Drama            ",5.5
+346,Kantri,Action            ,4.9
+347,Malli Malli Idhi Rani Roju,"Musical, Romance            ",7.5
+348,Raju Bhai,Drama            ,5.9
+349,Ayogya,"Action, Drama            ",6.1
+350,Gudumba Shankar,"Action, Comedy, Drama            ",5.7
+351,Potugadu,"Comedy, Drama            ",5.7
+352,Vastadu Naa Raju,"Action, Romance            ",5.8
+353,Dubai Seenu,"Action, Comedy            ",6.5
+354,Dongata,Comedy            ,6.3
+355,Sahasam,"Action, Adventure            ",6.6
+356,Dynamite,"Action, Thriller            ",6.6
+357,Alex Pandian,Action            ,2.4
+358,Ragada,"Action, Comedy            ",6.1
+359,Run,"Action, Comedy, Drama            ",7
+360,Chalo,"Action, Comedy, Family            ",6.4
+361,Munna,Action            ,5.6
+362,Disco Raja,"Action, Sci-Fi            ",6.4
+363,Krishna and His Leela,"Comedy, Romance            ",5.3
+364,Yeto Vellipoyindhi Manasu,"Drama, Romance            ",7.3
+365,Praana,"Crime, Drama, Horror            ",8.5
+366,Shankardada Zindabad,Comedy            ,5.2
+367,Padi Padi Leche Manasu,"Drama, Romance            ",6.4
+368,Punya Bhoomi Naa Desam,Action            ,6.4
+369,Quick Gun Murugun: Misadventures of an Indian Cowboy,"Action, Comedy, Drama            ",5.9
+370,Adavilo Anna,"Action, Drama            ",5.5
+371,Thamizh Padam,Comedy            ,7.3
+372,Ek Niranjan,Action            ,5.2
+373,Annavaram,"Action, Drama            ",4.8
+374,Bindaas,"Action, Drama, Family            ",6.8
+375,Prema Katha Chitram,"Drama, Horror            ",7.1
+376,Jagadeka Veerudu Athiloka Sundari,"Action, Comedy, Family            ",8
+377,Vismayam,Drama            ,7.7
+378,Missamma,"Comedy, Drama, Family            ",8.5
+379,Gaddalakonda Ganesh,"Action, Thriller            ",6.6
+380,Oka Laila Kosam,"Comedy, Romance            ",6.1
+381,Venky Mama,"Action, Comedy, Drama            ",5.5
+382,Kick 2,"Action, Comedy, Romance            ",5.1
+383,Gayatri,"Drama, Family            ",6.5
+384,180,"Drama, Romance            ",6
+385,Shourya,"Romance, Thriller            ",6.9
+386,Ashta Chamma,Comedy            ,7.3
+387,Sigappu Rojakkal,"Drama, Thriller            ",7.8
+388,LIE,"Action, Thriller            ",5.9
+389,Power,Action            ,5.8
+390,Dev,"Action, Adventure, Romance            ",4.8
+391,Pataas,"Action, Comedy            ",6.7
+392,Okkadu Migiladu,Action            ,7.2
+393,Majnu,"Comedy, Drama, Romance            ",6.4
+394,Srinivasa Kalyanam,"Drama, Family            ",6
+395,Luck Unnodu,Comedy            ,5.6
+396,Amma Nanna O Tamila Ammayi,"Action, Drama, Sport            ",7.3
+397,Jayasurya,"Action, Thriller            ",6
+398,Bangaram,"Action, Drama            ",4.7
+399,Dora,"Action, Horror, Thriller            ",5.3
+400,Don Seenu,"Action, Comedy            ",6
+401,Vunnadhi Okate Zindagi,Drama            ,6.4
+402,Krishnam Vande Jagadgurum,Action            ,6.9
+403,Killing Veerappan,"Action, Biography, Crime            ",7.3
+404,Gunturodu,"Action, Comedy            ",6.4
+405,Mr. Majnu,Romance            ,6.1
+406,Not Today,Drama            ,5.7
+407,Oy!,Romance            ,6.7
+408,Nuvve.. Nuvve...,"Drama, Romance            ",7.4
+409,Loukyam,"Action, Comedy            ",6.4
+410,Swathi Muthyam,"Drama, Family, Romance            ",8.3
+411,Life Is Beautiful,"Drama, Romance            ",6.4
+412,Yuvaraju,Romance            ,5.7
+413,Chal Mohan Ranga,Romance            ,5.8
+414,Vamsee,Action            ,4.8
+415,Endukante... Premanta,"Comedy, Fantasy, Romance            ",6.1
+416,Veyyil,Drama            ,7.7
+417,Mallesham,Biography            ,8.5
+418,Attack,"Action, Crime, Thriller            ",6.1
+419,Mosagallaku Mosagadu,"Action, Comedy, Crime            ",6.2
+420,Kandireega,"Action, Comedy, Romance            ",6.2
+421,Raju Gari Gadhi 2,"Comedy, Horror, Thriller            ",5.3
+422,Superstar Kidnap,Thriller            ,6.8
+423,Pournami,"Action, Drama, Mystery            ",5.8
+424,Ninne Pelladatha,"Romance, Comedy, Drama            ",7.6
+425,Shailaja Reddy Alludu,"Action, Comedy, Drama            ",5.1
+426,Jamba Lakidi Pamba,"Comedy, Fantasy            ",6.6
+427,Jaya Janaki Nayaka,"Action, Romance            ",5.1
+428,Akkada Ammayi Ikkada Abbayi,"Action, Romance            ",5.2
+429,Pichhodu,Drama            ,9.5
+430,Bobby,"Drama, Romance            ",3.7
+431,Okka Kshanam,"Action, Romance, Thriller            ",7
+432,Achari America Yathra,"Comedy, Family            ",5.8
+433,Sathyaa,"Action, Crime, Drama            ",7.8
+434,Bengal Tiger,"Action, Comedy            ",5.1
+435,Ashok,Action            ,5.7
+436,Coolie No. 1,"Action, Drama, Romance            ",6.5
+437,Pathala Bhairavi,"Action, Adventure, Family            ",8.5
+438,Goutham Nanda,"Action, Drama            ",6.4
+439,Gang Leader,"Action, Drama            ",7.8
+440,Golmaal,Comedy            ,7
+441,Mahanubhavudu,"Comedy, Drama, Romance            ",6.4
+442,118,"Action, Thriller            ",6.6
+443,Heart Attack,"Action, Romance            ",5.3
+444,Dictator,"Action, Drama            ",4.2
+445,Idiot,"Action, Comedy, Romance            ",7.1
+446,Neninthe,"Action, Drama            ",6.8
+447,Rarandoi Veduka Chudham,"Action, Romance            ",5.6
+448,Aswathama,"Action, Thriller            ",6.4
+449,Yamajaathakudu,"Action, Comedy, Fantasy            ",4.9
+450,Jaanu,"Drama, Romance            ",7
+451,Neevevaro,"Action, Romance, Thriller            ",6.9
+452,Power Unlimited 2,Action            ,4.8
+453,Guru,"Action, Drama, Sport            ",7.9
+454,Kee,"Action, Thriller            ",5.1
+455,Jagadam,Action            ,6.8
+456,Daruvu,"Action, Comedy, Fantasy            ",5
+457,Damarukam,"Action, Drama, Fantasy            ",5.3
+458,Super,"Action, Comedy            ",5.1
+459,Krishna: The Power of Indrakeeladri,"Action, Comedy, Drama            ",6.3
+460,Chakram,Drama            ,6
+461,Size Zero,"Comedy, Romance            ",5.4
+462,Bhadra,Action            ,6.7
+463,Erra Buss,"Comedy, Drama            ",6.2
+464,Lakshmi's NTR,Drama            ,6.9
+465,Dhoni,"Drama, Family            ",6.7
+466,Appatlo Okadundevadu,Drama            ,7.8
+467,Akhil,"Action, Fantasy            ",3.7
+468,Daana Veera Soora Karna,"Action, Drama, Fantasy            ",8.8
+469,Aadhi Bhagavan,Action            ,5.3
+470,Devudu Chesina Manushulu,"Action, Comedy, Fantasy            ",3.6
+471,Falaknuma Das,"Action, Thriller            ",6.3
+472,Raju Maharaju,Family            ,6.2
+473,Adhipathi,"Action, Drama            ",5.5
+474,Peda Rayudu,"Action, Drama            ",7.2
+475,Nela Ticket,"Action, Drama            ",4.5
+476,Prati Roju Pandaage,"Drama, Family            ",6.2
+477,Veera,"Comedy, Romance            ",6.6
+478,Kotha Bangaru Lokam,Romance            ,6.8
+479,Santosham,"Drama, Romance            ",7.1
+480,Venky,"Action, Mystery            ",7.3
+481,Jai Simha,"Action, Drama            ",4.7
+482,Nuvve Kavali,Romance            ,7.5
+483,Samba,Action            ,4.9
+484,Lava Kusa,"Drama, Family, Musical            ",8.1
+485,George Reddy,Action            ,7.2
+486,Subramanyam for Sale,Comedy            ,6
+487,Bhoot Returns,"Horror, Mystery, Thriller            ",2.5
+488,Suswagatham,"Drama, Romance            ",7.1
+489,Dohchay,Action            ,5.9
+490,Andala Rakshasi,Romance            ,7.2
+491,Raja,Family            ,7.5
+492,Sambo Siva Sambho,"Action, Drama            ",6.8
+493,Okkadunnadu,"Action, Thriller            ",7.3
+494,Manmadhudu 2,"Comedy, Drama, Romance            ",4.8
+495,Paisa Vasool,"Action, Comedy            ",4.4
+496,Lakshmi,Drama            ,6.9
+497,Chantabbai,"Comedy, Mystery            ",8.1
+498,Anji,"Action, Adventure, Drama            ",5.8
+499,Dhada,"Action, Comedy            ",3.7
+500,Uthama Puthiran,"Comedy, Romance            ",5.6
+501,Jai Chiranjeeva,"Action, Comedy, Drama            ",5.8
+502,Magalir Mattum,"Comedy, Drama, Thriller            ",7.3
+503,Anaganaga O Dheerudu,"Action, Adventure, Family            ",5.1
+504,Supreme Khiladi,"Action, Comedy            ",6.1
+505,Aakali Rajyam,Drama            ,8.1
+506,Okka Magadu,"Action, Comedy, Drama            ",2.1
+507,Phoonk 2,"Drama, Horror, Mystery            ",3.1
+508,Tappu Chesi Pappu Koodu,Comedy            ,5.4
+509,Bhairava Dweepam,"Action, Adventure, Comedy            ",7.8
+510,Needi Naadi Oke Katha,Drama            ,7.8
+511,Narasimha Naidu,"Action, Drama            ",7
+512,Guru,"Action, Crime, Drama            ",6.5
+513,Chintakayala Ravi,"Comedy, Drama, Romance            ",5.5
+514,Yogi,"Action, Drama            ",4.5
+515,Yaman,"Action, Drama, Thriller            ",6.2
+516,Anando Brahma,"Comedy, Horror            ",6.7
+517,Vanaja,Drama            ,7.1
+518,Raja Vaaru Rani Gaaru,Romance            ,7.6
+519,Gangotri,"Action, Drama, Romance            ",4.6
+520,Golimar,Action            ,5.9
+521,Narasimhudu,"Action, Drama            ",2.9
+522,Swayam Krushi,Drama            ,8.3
+523,Mental Madhilo,"Comedy, Drama, Romance            ",7.4
+524,Gaayam,"Action, Drama            ",7.3
+525,Rayalaseema Ramanna Chowdary,"Action, Drama            ",6.3
+526,Gokulamlo Seetha,"Drama, Romance            ",5.6
+527,Rajanna,"Action, Drama, History            ",6.5
+528,Madha,"Mystery, Thriller            ",5.3
+529,Hushaaru,Comedy            ,6.9
+530,Settai,"Action, Comedy, Crime            ",4.4
+531,Swarnakamalam,"Drama, Musical, Romance            ",8
+532,Tadakha,Action            ,5.5
+533,Nenu Naa Rakshasi,"Action, Drama            ",5
+534,Diya,"Drama, Horror, Thriller            ",5.7
+535,Vikram,"Action, Adventure, Sci-Fi            ",7.2
+536,Kadhal Desam,"Comedy, Drama, Romance            ",6.8
+537,Mudra,"Action, Thriller            ",7
+538,Naa Autograph Sweet Memories,"Drama, Romance            ",7.3
+539,Dum Dum Dum,"Comedy, Romance            ",7
+540,Challenge,Drama            ,7.8
+541,Kalisundam Raa,Drama            ,7.3
+542,Pandaga Chesko,"Action, Drama, Family            ",5.4
+543,Lakshmi,"Action, Drama            ",5.8
+544,Daddy,Drama            ,6.5
+545,Seetha,Romance            ,4.7
+546,Kalki,"Action, Thriller            ",7
+547,Parama Veera Chakra,"Action, Drama            ",2
+548,Samarasimha Reddy,"Action, Drama            ",7.1
+549,Andhrawala,"Action, Drama            ",3.5
+550,Hyper,"Action, Drama            ",5.7
+551,Kalloori,Drama            ,7.3
+552,Veera,"Action, Comedy, Drama            ",3.8
+553,Criminal,"Action, Romance, Thriller            ",5.7
+554,Gharana Mogudu,"Action, Comedy, Drama            ",7.3
+555,Namo Venkatesa,"Action, Crime, Romance            ",5.4
+556,Karnan,"Action, Drama, History            ",8
+557,Annayya,"Comedy, Drama, Family            ",6.6
+558,Mesthri,Drama            ,4.6
+559,Little Soldiers,"Family, Musical, Comedy            ",7.9
+560,Alludu Seenu,"Action, Comedy            ",4.3
+561,Yuddham Sharanam,"Action, Thriller            ",6
+562,Khaidi,"Action, Drama            ",7.4
+563,Shiva Shankar,"Drama, Family            ",4.4
+564,Bavagaru Bagunnara?,"Comedy, Drama, Romance            ",7.1
+565,Nannu Dochukunduvate,Romance            ,6.9
+566,Hello Brother,"Action, Comedy, Drama            ",7.4
+567,Naa Alludu,Romance            ,3.4
+568,Shamantakamani,Drama            ,6.9
+569,Thulasi,Action            ,5.4
+570,Keshava,"Action, Drama, Thriller            ",6.3
+571,Maja,"Action, Comedy, Romance            ",5.1
+572,Aata,"Comedy, Drama, Romance            ",4.7
+573,Choodalani Vundi,"Action, Drama, Romance            ",7.1
+574,Ranarangam,"Action, Drama            ",5.9
+575,Mukunda,Family            ,5.7
+576,Allari Police,"Action, Comedy            ",5.1
+577,Kirrak Party,Comedy            ,5.7
+578,Chenna Kesava Reddy,"Action, Drama            ",6
+579,Sarocharu,"Drama, Romance            ",4.7
+580,Nadunisi Naaygal,"Mystery, Thriller            ",4.6
+581,Nagavalli,"Action, Fantasy, Thriller            ",4.4
+582,Ennaku 20 Unakku 18,"Drama, Musical, Romance            ",5.3
+583,Bodyguard,"Action, Comedy            ",5.1
+584,Raju Gari Gadhi 3,"Comedy, Horror, Thriller            ",6.7
+585,Josh,"Action, Family            ",6.2
+586,Greeku Veerudu,Drama            ,4.6
+587,Lakshmi Narasimha,"Action, Drama            ",6.5
+588,Autonagar Surya,"Action, Crime, Drama            ",5.6
+589,Style,Musical            ,6
+590,Shivamani,"Action, Romance            ",6.3
+591,Surya vs. Surya,Drama            ,6.8
+592,Swathi Kiranam,"Drama, Musical            ",8.1
+593,Alluda Majaaka!,"Action, Comedy, Drama            ",6.3
+594,Kavacham,"Action, Thriller            ",5.5
+595,Chinnadana Nee Kosam,"Drama, Romance            ",5.3
+596,Hrudaya Kaleyam,Comedy            ,5.7
+597,Mama Manchu Alludu Kanchu,"Action, Comedy            ",6.1
+598,Prathinidhi,"Drama, Thriller            ",7.4
+599,Meesrti,Action            ,3.6
+600,Khatarnak,"Action, Comedy            ",3.6
+601,Ritu,"Drama, Family            ",7.1
+602,Sri Ramadasu,"Biography, Musical            ",7
+603,Jawaan,"Action, Thriller            ",4.7
+604,Maalai Nerathu Mayakkam,"Drama, Romance            ",6.4
+605,Janaki Ramudu,"Drama, Romance            ",5.5
+606,Koduku Diddina Kapuram,Drama            ,6.6
+607,Subedar Joginder Singh,"Action, Biography, Drama            ",7.1
+608,Anasuya,"Crime, Mystery, Thriller            ",7.3
+609,Postman,Action            ,3.6
+610,Seven,Thriller            ,5.2
+611,Jil,Action            ,5.7
+612,Solo,Drama            ,6.7
+613,Andarivaadu,"Action, Comedy, Drama            ",4.4
+614,Anthahpuram,"Action, Drama            ",7.6
+615,Samrat Ashok,"Action, Drama, History            ",6.2
+616,Aapathbandavudu,"Drama, Musical            ",7.6
+617,Aaha Kalyanam,"Comedy, Romance            ",6
+618,Allari Pidugu,"Action, Drama, Romance            ",2.7
+619,Officer,"Action, Crime            ",3.4
+620,Paisa,"Action, Drama            ",6.1
+621,Yaan,"Action, Thriller            ",3.5
+622,Alluri Seetharama Raju,"Action, Biography, Drama            ",7.5
+623,Adavi Donga,"Action, Comedy, Family            ",6.6
+624,Madhuram,"Drama, Fantasy, Romance            ",8.3
+625,Vasu,"Drama, Romance            ",6.9
+626,Shiva,"Action, Crime, Drama            ",4
+627,Saakshyam,Action            ,4.9
+628,Shadow,"Action, Crime, Drama            ",3.8
+629,Babu Bangaram,"Action, Comedy            ",5.4
+630,Shivam,"Action, Comedy, Romance            ",5.4
+631,Rayudu,Family            ,4.2
+632,Lion,"Action, Drama            ",3.3
+633,Pantham,Action            ,6.4
+634,Govindha Govindha,"Action, Crime, Drama            ",6.8
+635,Nippu,"Action, Comedy, Drama            ",3.8
+636,Pasivadi Pranam,"Action, Drama, Thriller            ",7.7
+637,Chanakya,"Action, Thriller            ",5.5
+638,Kondaveeti Raja,"Action, Drama            ",6
+639,Jessie,"Horror, Thriller            ",7
+640,Ninu Veedani Needanu Nene,Comedy            ,5.9
+641,E,"Action, Drama, Thriller            ",6.4
+642,Ramayanam,History            ,7.1
+643,Meeku Matrame Chepta,Comedy            ,6.2
+644,Jay Jay,Romance            ,5.6
+645,Naaga,Action            ,3.9
+646,Venkatadri Express,"Adventure, Comedy            ",6.9
+647,Golkonda High School,"Drama, Family            ",6.8
+648,Khaidi No. 786,"Action, Drama, Romance            ",6.6
+649,Morning Raga,"Drama, Music            ",6.9
+650,Hitler,"Action, Drama            ",6.4
+651,Anjaneyulu,"Action, Comedy, Crime            ",4.8
+652,Khaidi Garu,Action            ,4
+653,Thimiru,Action            ,5.7
+654,Loafer,"Action, Drama            ",5.2
+655,Collector Garu,"Action, Comedy, Drama            ",5.1
+656,Tej I Love U,Romance            ,5.4
+657,Winner,"Action, Drama            ",4.6
+658,Anveshana,"Mystery, Thriller            ",7.5
+659,Ism,Action            ,5.8
+660,Abhinetri,"Comedy, Horror            ",6.1
+661,Allari Ramudu,"Action, Comedy, Drama            ",4.3
+662,Devadasu,Romance            ,5
+663,Kodama Simham,"Action, Adventure, Western            ",6.7
+664,April 1 Vidudala,"Comedy, Romance, Thriller            ",7.7
+665,Lankeshwarudu,"Action, Drama            ",6.6
+666,Kondaveeti Donga,"Action, Adventure, Drama            ",6.9
+667,O Pitta Katha,"Drama, Thriller            ",6.9
+668,Mutamestri,"Action, Drama            ",7.1
+669,Subbu,Drama            ,4.4
+670,Pilla Nuvvu Leni Jeevitham,"Action, Drama, Romance            ",6
+671,Sri Ramulayya,Action            ,4.8
+672,Boss,Romance            ,4.2
+673,Anaganaga Oka Roju,"Action, Comedy, Drama            ",7.1
+674,Raghavendra,"Action, Drama, Romance            ",4.9
+675,Kondaveeti Simhasanam,"Action, Drama            ",4
+676,Cinema Chupista Maava,Family            ,6.1
+677,Sri Jagadguru Adi Shankara,Drama            ,6.4
+678,Hawaa,Crime            ,7
+679,Toofan,Action            ,3
+680,Ongole Githa,"Action, Comedy            ",5.1
+681,Chukkallo Chandrudu,Drama            ,5.4
+682,Indrudu Chandrudu,"Comedy, Drama            ",7.2
+683,Sankranthi,Drama            ,6.2
+684,Aa Okkati Adakku,Comedy            ,7.8
+685,Eeshwar,"Action, Drama            ",5.2
+686,Ratchakan,"Action, Romance            ",6.4
+687,Maruthu,"Action, Drama            ",5.2
+688,Yamudiki Mogudu,"Action, Comedy, Fantasy            ",7.3
+689,Police Police,Action            ,5.6
+690,Evvarikee Cheppoddu,Drama            ,7.3
+691,Sudigaadu,"Action, Comedy            ",5.7
+692,Rama Rama Krishna Krishna,"Action, Comedy, Drama            ",5.4
+693,Geethanjali,"Comedy, Horror            ",6.3
+694,Padamati Sandhya Ragam,Romance            ,7.8
+695,Sri Manjunatha,"Drama, Family, History            ",6.9
+696,Vennela,Romance            ,7
+697,Jaguar,Action            ,5.6
+698,Marshal,Action            ,6.9
+699,Master,"Action, Drama            ",6.8
+700,Maska,"Action, Comedy, Drama            ",5.2
+701,Assembly Rowdy,"Action, Drama            ",6
+702,Mehbooba,"Action, Drama, Romance            ",5.7
+703,Sneham Kosam,"Action, Drama            ",6.5
+704,Sindhu Bhairavi,Drama            ,7.2
+705,Adhinayakudu,"Action, Drama            ",3.6
+706,Lakshyam,"Action, Drama, Romance            ",6.1
+707,Adavi Ramudu,"Action, Romance            ",4
+708,Kunti Puthrudu,Drama            ,4.1
+709,Mathangi,Horror            ,4.2
+710,Brahma,Action            ,3.9
+711,Alludugaru,"Drama, Comedy            ",5.7
+712,Oka Chinna Viramam,Thriller            ,7.3
+713,Nenu Lenu,Drama            ,7.3
+714,Mrugaraaju,"Action, Adventure, Thriller            ",4.4
+715,Bharani,"Action, Drama            ",5.8
+716,Dil,"Action, Romance            ",7
+717,Ullasanga Utsahanga,Romance            ,6.9
+718,Kedi,Action            ,4.7
+719,Shock,Action            ,5.4
+720,Jyo Achyutananda,"Comedy, Drama, Romance            ",6.5
+721,Mithunam,"Drama, Family            ",7.7
+722,Palasa 1978,"Action, Drama            ",7.6
+723,Maro Charithra,"Drama, Romance            ",7.4
+724,Pelli Pustakam,"Comedy, Drama, Romance            ",7.5
+725,Boy,"Comedy, Drama            ",6.9
+726,Yamaleela,"Comedy, Drama, Fantasy            ",7.5
+727,Suryavamsam,Drama            ,7.1
+728,Kaakki Sattai,"Action, Comedy, Drama            ",7.1
+729,Ammoru,"Fantasy, Horror            ",7.1
+730,Ninnu Choodalani,Romance            ,4.4
+731,Premante Idera,"Romance, Drama            ",6.7
+732,Devadasu,"Drama, Family, Musical            ",7.4
+733,Ninaithale Inikkum,"Musical, Romance            ",6.9
+734,Jayam,"Action, Drama, Romance            ",6.3
+735,Mugguru,Comedy            ,5
+736,Ganesh,Romance            ,5
+737,Arjun Reddy,"Drama, Romance            ",5
+738,Vangaveeti,"Action, Biography, Crime            ",6.2
+739,Chandamama Kathalu,Drama            ,7.2
+740,Chandamama,"Drama, Romance            ",6.7
+741,Rowdy Fellow,"Action, Romance            ",6.7
+742,Shirdi Sai,"Biography, Drama, Musical            ",6.7
+743,Sisindri,"Comedy, Family            ",6.7
+744,Manasantha Nuvve,"Drama, Family, Romance            ",7.1
+745,Seetharamaiah Gari Manavaralu,Drama            ,7.7
+746,Bhale Manchi Roju,"Action, Romance            ",6.9
+747,Devi Putrudu,"Drama, Fantasy            ",5.8
+748,Super Duper,"Comedy, Thriller            ",6.6
+749,Subhash Chandra Bose,"Action, Drama, History            ",3.1
+750,Hyderabad Blues 2,"Drama, Comedy            ",6.2
+751,Vijetha,"Drama, Family, Romance            ",7.2
+752,Veera Bhoga Vasantha Rayalu,"Crime, Thriller            ",6.7
+753,Tik Tik Tik,"Crime, Mystery, Thriller            ",7
+754,Detective Naarada,"Comedy, Drama, Thriller            ",5.9
+755,Kalyana Vaibhogame,"Comedy, Drama            ",6.8
+756,Heza,Drama            ,7.4
+757,Narthanasala,"Drama, Musical            ",7.6
+758,Nenunnanu,Action            ,5.3
+759,Ganesh,"Action, Drama, Thriller            ",7.2
+760,Veedevadandi Babu,Comedy            ,5.6
+761,Sirivennela,"Family, Musical            ",7.5
+762,Routine Love Story,"Comedy, Romance            ",6
+763,Intlo Illalu Vantaintlo Priyuralu,"Comedy, Family            ",6.9
+764,Guna 369,"Action, Drama            ",6.3
+765,Anandam,Romance            ,7.1
+766,Masala,"Action, Comedy            ",5.3
+767,Entha Manchivaadavuraa,"Action, Drama            ",5.5
+768,Ruler,"Action, Drama            ",3.6
+769,Om Namo Venkatesaya,"Biography, Fantasy            ",7.2
+770,Gundello Godari,"Adventure, Drama, Romance            ",4.8
+771,Rowdy Gari Pellam,Drama            ,3.8
+772,Paper Boy,Romance            ,6.5
+773,Mister,Drama            ,3.9
+774,Raju Gari Gadhi,Horror            ,5
+775,Thodarum,"Drama, Romance            ",5.4
+776,Allari Mogudu,"Drama, Comedy            ",5.7
+777,Nirnayam,"Action, Comedy, Drama            ",7
+778,Dharma Bhai,"Action, Drama            ",3
+779,Software Sudheer,Drama            ,6
+780,Bhageeratha,"Action, Drama            ",5.6
+781,Azaad,"Action, Drama            ",6.2
+782,Minugurulu,"Drama, Family            ",7.5
+783,Raaja Paarvai,"Drama, Romance            ",7.2
+784,Vijayendra Varama,"Action, Thriller            ",2
+785,Mogudu,Drama            ,3.8
+786,Jayam Manadera,Drama            ,6.3
+787,Oxygen,"Action, Thriller            ",5.5
+788,Athaku Yamudu Ammayiki Mogudu,"Action, Comedy, Drama            ",7
+789,Sindhooram,"Action, Drama, Romance            ",7.4
+790,Bezawada,"Action, Crime            ",3.3
+791,Satyam,Romance            ,6.7
+792,Avunu Valliddaru Ishtapaddaru,"Comedy, Romance, Drama            ",6.6
+793,Baladoor,"Action, Comedy            ",4
+794,2 Hours Love,Romance            ,6.7
+795,Sakalakala Vallavan,"Action, Comedy, Romance            ",6.7
+796,MLA,"Action, Drama            ",5.2
+797,Appula Appa Rao,Comedy            ,7.3
+798,Radha,"Action, Comedy, Romance            ",5.4
+799,Ladies Tailor,Comedy            ,7.1
+800,Abhilasha,Thriller            ,7.3
+801,Srimannarayana,Drama            ,4.1
+802,Katha Screenplay Darsakatvam: Appalaraju,Comedy            ,5
+803,Chandralekha,"Comedy, Romance            ",6.7
+804,Maharadhi,Action            ,2.1
+805,Speedunnodu,"Comedy, Romance            ",4.6
+806,Subhalekha,"Family, Drama, Musical            ",7.3
+807,Asura,"Action, Drama            ",6.5
+808,Palnati Brahmanayudu,"Action, Drama            ",2.5
+809,@ Nartanasala,Drama            ,3.7
+810,Nuvvu Nenu,Romance            ,6.7
+811,Rowdy Mogudu,Drama            ,4.5
+812,Vijetha,Drama            ,6.8
+813,Ravoyi Chandamama,"Drama, Romance            ",4.8
+814,Dream,"Action, Crime, Mystery            ",8.3
+815,Preminchukundam Raa,Romance            ,7.2
+816,Vasantham,"Drama, Romance            ",5.6
+817,Chanti,"Drama, Romance            ",7
+818,Bobbili Raja,"Action, Romance            ",6.9
+819,Kataka,"Horror, Thriller            ",7.5
+820,Dongala Mutha,"Action, Crime, Thriller            ",3.7
+821,Chitemma Mogudu,Comedy            ,4.4
+822,Subha Sankalpam,"Drama, Musical            ",6.8
+823,Maa Inti Katha,Family            ,2.5
+824,W/o Ram,Thriller            ,6
+825,James Bond,"Action, Comedy            ",5.5
+826,Padmavyuham,Action            ,1.6
+827,Avunu,"Horror, Thriller            ",6.5
+828,Veerabhadra,Action            ,2.5
+829,Iddaru Mitrulu,"Drama, Musical            ",5.2
+830,Singham123,"Action, Comedy            ",4.8
+831,Anaamika,Thriller            ,5.6
+832,Sasirekha Parinayam,Romance            ,5.3
+833,Bendu Apparao RMP,Comedy            ,6.7
+834,Rajaratha,"Action, Adventure, Comedy            ",5.2
+835,Danger,Thriller            ,6.4
+836,Andari Bandhuvaya,Drama            ,7.3
+837,Seenu,Romance            ,5.6
+838,Janda Pai Kapiraju,"Action, Thriller            ",6.3
+839,Deyyam,Horror            ,6.4
+840,Rowdy Alludu,"Action, Comedy            ",6.9
+841,Krishna Aur Kans,"Animation, Action, Adventure            ",6.5
+842,Seema Tapakai,Comedy            ,6.1
+843,Mahathma,"Action, Crime, Drama            ",5.9
+844,Baanam,"Action, Drama            ",7.1
+845,Bhai,"Action, Comedy, Thriller            ",3.2
+846,Itlu Sravani Subramanyam,"Drama, Romance            ",6.5
+847,Sathyam,"Action, Drama            ",5.1
+848,Bhale Ramudu,Family            ,1.3
+849,Pressure Cooker,"Comedy, Drama, Family            ",6.5
+850,Ranam,Action            ,6.5
+851,Aavida Maa Aavide,"Comedy, Romance            ",6.4
+852,Alavuddinum Athbutha Vilakkum,"Adventure, Drama, Fantasy            ",6.6
+853,Naa Mogudu Nanke Sontham,Comedy            ,3.2
+854,Sri Anjaneyam,Fantasy            ,4.4
+855,Chiru Navvuto,"Comedy, Drama, Romance            ",7.2
+856,Operation Gold Fish,"Action, Thriller            ",4.4
+857,Subrahmanyapuram,"Drama, Mystery, Thriller            ",5.5
+858,Baava,Drama            ,4.7
+859,Veera Prathap,"Action, Adventure, Comedy            ",1.2
+860,Courier Boy Kalyan,"Action, Romance, Thriller            ",5.4
+861,Jabardasth,Comedy            ,3.9
+862,Pellam Oorelithe,"Comedy, Drama            ",6.8
+863,Hanuman Junction,"Drama, Action, Comedy            ",6.8
+864,Money,"Action, Comedy, Drama            ",7.2
+865,Ninnu Thalachi,"Comedy, Romance            ",7.4
+866,Jayammu Nischayammuu Raa,Comedy            ,7.2
+867,A Film by Aravind,"Horror, Mystery            ",7.1
+868,Ye Mantram Vesave,Drama            ,4
+869,Bhakta Prahlada,"Drama, Musical            ",7.5
+870,Souryam,"Action, Drama            ",5.8
+871,Blade Babji,Comedy            ,6.4
+872,Devi,"Drama, Fantasy            ",6.6
+873,Gulabi,"Action, Romance            ",7
+874,Rajendrudru Gajendrudru,"Comedy, Drama            ",7.2
+875,Lovely,Romance            ,5.4
+876,Adhirindhi Alludu,Drama            ,3.3
+877,Andhrudu,"Action, Drama            ",6.6
+878,Malliswari,"Drama, History, Musical            ",7
+879,Bluff Master,"Crime, Thriller            ",6.5
+880,Aatagadharaa Siva,"Action, Comedy, Drama            ",7.3
+881,Rechipo,Action            ,3.3
+882,Kadhal Sadugudu,"Action, Drama            ",5.7
+883,Ra Ra Krishnayya,Romance            ,5.3
+884,Nuvvu Vasthavani,"Family, Romance            ",6.7
+885,Prathigna,"Comedy, Family            ",1.1
+886,Life Before Wedding,"Comedy, Drama, Romance            ",7.2
+887,Silly Fellows,Comedy            ,5.9
+888,Donga Police,"Action, Comedy, Drama            ",3.1
+889,Sundara Kanda,"Comedy, Romance            ",7
+890,Chitram Bhalare Vichitram,Comedy            ,6.8
+891,Ninne Premistha,Romance            ,6.1
+892,Sahasa Veerudu Sagara Kanya,"Action, Adventure, Fantasy            ",6.1
+893,Bhookailas,"Drama, Musical            ",7.1
+894,Antham,"Action, Crime, Thriller            ",6.4
+895,Ami Thumi,Comedy            ,6.6
+896,Oka Manasu,"Drama, Musical, Romance            ",5.3
+897,Aatadista,"Action, Comedy, Drama            ",4.2
+898,Poola Rangadu,Comedy            ,5.7
+899,Kitakitalu,"Comedy, Drama            ",5.8
+900,Money Money,"Action, Comedy, Drama            ",7
+901,Prema Katha,"Drama, Romance            ",6.3
+902,Enga Veetu Pillai,"Action, Comedy, Drama            ",7.1
+903,Missamma,Drama            ,7
+904,Sitaramaraju,"Action, Drama, Romance            ",5.7
+905,Desa dimmari,Romance            ,6.8
+906,Sparsha,"Drama, Musical, Romance            ",6.9
+907,Case No. 666/2013,"Horror, Thriller            ",4.6
+908,I Love You,"Drama, Romance            ",4.8
+909,Nayaki,"Comedy, Horror, Thriller            ",2.9
+910,Ee Rojullo,"Comedy, Romance            ",5.6
+911,Kamma Rajyam Lo Kadapa Reddlu,"Drama, Thriller            ",3.7
+912,Mugguru Monagallu,"Action, Comedy, Drama            ",6.1
+913,24 Kisses,Romance            ,4.9
+914,Next Enti?,"Comedy, Drama, Romance            ",4.6
+915,Naa Bangaaru Talli,"Crime, Drama, Family            ",7.2
+916,Anthaka Mundu Aa Tarvatha,"Drama, Romance            ",6.6
+917,Edadugula Bandham,Drama            ,1.7
+918,Naa Nuvve,Romance            ,4.2
+919,All the Best,Drama            ,5.5
+920,Ranga (S.S.L.C),"Action, Comedy, Drama            ",6.2
+921,Maanavudu Daanavudu,Family            ,1.6
+922,Athanokkade,"Action, Drama            ",6.8
+923,Seema Sastry,"Action, Comedy            ",6.3
+924,Amma Cheppindi,Drama            ,7.1
+925,Kalyanaraman,"Action, Comedy, Drama            ",6.6
+926,Sankham,"Action, Comedy            ",5
+927,Ride,Drama            ,5.2
+928,Ave Kallu,"Musical, Mystery, Thriller            ",7.2
+929,Suryakantham,"Comedy, Romance            ",5.4
+930,Bhale Dongalu,Romance            ,4.2
+931,Kousalya Krishnamurthy,"Drama, Sport            ",7.4
+932,Andhhagadu,Comedy            ,5.7
+933,Okka Ammayi Thappa,"Action, Drama, Romance            ",5.7
+934,Bheemli Kabadi Jattu,Sport            ,7.3
+935,Naa Ishtam,Drama            ,3.5
+936,Saptapadhi,"Drama, Family, Musical            ",7.2
+937,Voter,Romance            ,7.4
+938,Sankarabharanam,Comedy            ,4.8
+939,Chaarulatha,"Horror, Thriller            ",5.3
+940,Prema Kavali,Romance            ,5.8
+941,Ontari,Action            ,5.8
+942,Killer,"Action, Crime, Drama            ",6.5
+943,Mr. Pellam,"Comedy, Drama            ",7.2
+944,Ammammagarillu,Romance            ,5.4
+945,Brand Babu,Comedy            ,5.3
+946,Bama Vijayam,Comedy            ,7.3
+947,Mitrudu,Drama            ,4.3
+948,Mr. Medhavi,"Drama, Romance            ",5.8
+949,Dharma Chakram,Drama            ,7.1
+950,Chettu Kinda Pleader,"Comedy, Crime, Thriller            ",7.2
+951,Hippi,"Action, Comedy, Romance            ",5
+952,Aha Naa Pellanta,Comedy            ,5.4
+953,Veta,"Action, Adventure, Thriller            ",6.9
+954,Aatagallu,"Action, Thriller            ",5.3
+955,Thikka,"Action, Comedy            ",4.6
+956,Dorasani,"Drama, Romance            ",5.9
+957,Allari Bullodu,Romance            ,2.9
+958,Peddarikam,"Comedy, Drama, Action            ",7.1
+959,Kalathur Kannamma,"Drama, Romance            ",7
+960,Raju Gadu,Family            ,5.3
+961,Guntur Talkies,Comedy            ,5.8
+962,Kshemanga Velli Labhamga Randi,Comedy            ,6.7
+963,Kotha Janta,"Comedy, Drama            ",4.7
+964,Iddari Lokam Okate,"Drama, Romance            ",5.6
+965,Eduruleni Manishi,"Comedy, Drama            ",4.5
+966,Mathru Devo Bhava,Drama            ,7.4
+967,Kittu Unnadu Jagratha,Comedy            ,5.8
+968,Ice Cream,"Horror, Thriller            ",3.5
+969,Nuvva Nena,Comedy            ,4.6
+970,Rama Chakkani Seetha,"Drama, Romance            ",6.1
+971,Jappanil Kalyanaraman,"Action, Comedy, Romance            ",6
+972,Idaya Kovil,"Drama, Romance            ",6.2
+973,Jaihind 2,Action            ,5.2
+974,Nuvvila,"Comedy, Drama, Romance            ",6.8
+975,Srivaariki Premalekha,"Comedy, Romance            ",6.8
+976,Mard Ki Zabaan 2,"Action, Romance            ",3.7
+977,Hyderabad Nawabs,Comedy            ,6.9
+978,Veede,"Action, Drama            ",4.9
+979,Nari Nari Naduma Murari,"Comedy, Drama, Romance            ",6.3
+980,Mayalodu,"Comedy, Drama            ",7
+981,Raja Vikramarka,"Action, Comedy, Family            ",6.7
+982,ABCD: American-Born Confused Desi,Comedy            ,5.4
+983,Alludu Diddina Kapuram,Drama            ,1.4
+984,Hare Ram,"Action, Thriller            ",6.4
+985,Yamagola,"Comedy, Fantasy, Romance            ",6.6
+986,Meendum Kokila,"Comedy, Drama, Romance            ",6.3
+987,M Dharmaraju M.A.,"Drama, Thriller            ",5.4
+988,Prema Panjaram,"Drama, Family            ",1
+989,Tenali Ramakrishna BA.BL,"Action, Comedy, Drama            ",5
+990,Gowtham SSC,Drama            ,5.9
+991,Kanchana,Drama            ,7
+992,Mayuri,"Family, Musical            ",6.8
+993,Swayamvaram,"Drama, Romance            ",6.9
+994,Seetharamula Kalyanam Lankalo,"Action, Comedy, Drama            ",4.3
+995,Pavitra Bandham,"Comedy, Drama, Romance            ",6.7
+996,Bala Gopaludu,Drama            ,3.4
+997,Yuvakudu,Romance            ,7
+998,Jayammu Nischayammu Raa!,"Comedy, Romance            ",6.9
+999,Manchi Donga,"Action, Drama, Romance            ",5.1
+1000,Big Boss,"Action, Drama            ",4.7
+1001,Idam Jagath,"Action, Thriller            ",5.5
+1002,Happy Wedding,Drama            ,4.3
+1003,Nuvvu Leka Nenu Lenu,Romance            ,6.3
+1004,Thoongathey Tambi Thoongathey,Drama            ,6.4
+1005,Yamudiki Mogudu,"Comedy, Fantasy            ",4.8
+1006,Bommana Brothers Chanadana Sisters,Comedy            ,5.7
+1007,Rowdy Inspector,"Action, Drama            ",5.9
+1008,Sontham,Action            ,6.9
+1009,Annai Oru Aalayam,"Adventure, Drama            ",6.9
+1010,Wanted,"Action, Drama            ",4
+1011,Panchakshari,"Drama, Fantasy, Thriller            ",3.8
+1012,Snehamante Idera,"Comedy, Drama            ",4.3
+1013,Soggadi Pellam,Drama            ,4.1
+1014,Bhale Donga,"Action, Comedy, Drama            ",3.3
+1015,1st Rank Raju,"Comedy, Drama, Romance            ",5.3
+1016,Dongodu,Comedy            ,4.9
+1017,Devullu,Drama            ,7
+1018,Sardar Papa Rayudu,"Action, Drama            ",5.9
+1019,Srinivasa Kalyanam,Drama            ,7.9
+1020,Pourudu,Action            ,5.4
+1021,Amrutha Ramam,Drama            ,8
+1022,Prematho Raa,Romance            ,5.8
+1023,Bumper Offer,Romance            ,4.9
+1024,Mangamma Gari Manavadu,Drama            ,7.5
+1025,Yudda Bhoomi,"Action, Drama            ",7.7
+1026,Rayalaseema Love Story,Drama            ,6.2
+1027,Soggadu,Romance            ,4.8
+1028,Budget Padmanabham,"Comedy, Drama            ",5.7
+1029,Swargam Narakam,"Comedy, Drama            ",8.1
+1030,Manmatha Leelai,"Comedy, Musical, Romance            ",7.5
+1031,Emo Gurram Egaravachu,Drama            ,5.6
+1032,Ayyare,"Drama, Family            ",6.9
+1033,Valayam,Mystery            ,7
+1034,Babai Abbai,"Comedy, Romance            ",7.6
+1035,Two Town Rowdy,"Action, Drama, Romance            ",8
+1036,State Rowdy,"Action, Crime, Drama            ",7.3
+1037,Aradhana,"Musical, Romance            ",7.5
+1038,Idhi Mamulu Prema Katha Kaadu,Romance            ,6.7
+1039,Rey,"Action, Music            ",5
+1040,Prema Yuddham,Romance            ,8.4
+1041,Samudram,"Action, Crime, Drama            ",6.7
+1042,Kabaddi Kabaddi,"Comedy, Drama, Romance            ",6.7
+1043,Sruthilayalu,"Drama, Family, Musical            ",7.8
+1044,Rikshavodu,"Action, Drama            ",5.8
+1045,Muthyala Muggu,Family            ,7.4
+1046,Napoleon,"Drama, Mystery            ",7.4
+1047,Bazaar Rowdy,Action            ,7.4
+1048,Pelli Sandadi,"Musical, Romance            ",7.4
+1049,Idi Ma Prema Katha,Romance            ,8.1
+1050,Babu Baga Busy,Comedy            ,6.4
+1051,Rogue,"Action, Thriller            ",5.9
+1052,Bhanumathi & Ramakrishna,"Comedy, Drama, Romance            ",7.5
+1053,S. P. Parasuram,"Action, Drama            ",6
+1054,Ala Ela,"Comedy, Romance            ",7.3
+1055,Kevvu Keka,Comedy            ,5.4
+1056,Mantra,"Crime, Thriller            ",6.8
+1057,Runam,Romance            ,8.8
+1058,Choopulu Kalasina Subhavela,"Comedy, Drama            ",7.7
+1059,Manoharam,"Action, Drama            ",7.1
+1060,Agni,nan,8.5
+1061,Appu Chesi Pappu Koodu,"Comedy, Drama            ",8
+1062,Siddu from Srikakulam,Comedy            ,5.4
+1063,Nachavule,Romance            ,7.3
+1064,Yagnam,Action            ,6.3
+1065,Mee Sreyobhilashi,Drama            ,7.6
+1066,Kadapa Redamma,Action            ,8.4
+1067,Ghatotkachudu,"Comedy, Drama, Fantasy            ",7.2
+1068,Jagadeka Veeruni Katha,"Drama, Fantasy            ",7.9
+1069,Kanyasulkam,Drama            ,7.9
+1070,Snehamera Jeevitham,Action            ,8.3
+1071,Kobbari Matta,Comedy            ,5.8
+1072,Dhruvanakshatram,"Action, Drama            ",8.2
+1073,Per Sollum Pillai,"Action, Drama, Family            ",6.9
+1074,Vivaha Bhojanambu,Comedy            ,7.6
+1075,Shanti Kranti,"Action, Drama, Musical            ",6.9
+1076,Sukumarudu,Drama            ,5.3
+1077,Fitting Master,"Action, Comedy, Crime            ",5.5
+1078,Operation Duryodhana,"Action, Crime, Drama            ",5.8
+1079,Prema,"Drama, Romance            ",7.7
+1080,Mooga Manasulu,Drama            ,7.7
+1081,Ontari Poratam,Action            ,7.9
+1082,Tandra Paparayudu,"Action, Biography, Drama            ",7.9
+1083,Nireekshana,"Drama, Romance            ",7.4
+1084,Premaabhishekam,"Drama, Musical, Romance            ",7.7
+1085,Savaari,Romance            ,6.7
+1086,Surya IPS,"Crime, Action            ",7
+1087,Maharasan,"Comedy, Drama            ",6.3
+1088,Chakravarthy,"Action, Crime, Drama            ",8
+1089,Lover,Romance            ,5.8
+1090,Jadoogadu,Action            ,5.5
+1091,Allari Alludu,Drama            ,7.5
+1092,Pandava Vanavasamu,"Drama, Fantasy            ",8.1
+1093,Mechanic Alludu,Comedy            ,6.3
+1094,Kondaveeti Simham,"Action, Drama, Family            ",7.5
+1095,Malini 22,"Drama, Thriller            ",5.1
+1096,Bobbili Simham,Drama            ,7.7
+1097,Show,"Comedy, Drama            ",7
+1098,Varasudochhadu,Family            ,7.8
+1099,Family Circus,"Drama, Family            ",6.6
+1100,Edurinti Mogudu Pakkinti Pellam,Comedy            ,7.5
+1101,Adavi Ramudu,"Action, Drama, Romance            ",7.2
+1102,Donga,"Action, Drama            ",7.2
+1103,Aakhari Poratam,"Action, Drama, Thriller            ",7.2
+1104,Rough,Romance            ,4.9
+1105,Paathshala,Drama            ,7.3
+1106,Kathi Kanta Rao,Comedy            ,6.5
+1107,Pelli Chesukundam,Drama            ,6.8
+1108,Black Tiger,nan,7.9
+1109,Sri Krishna Pandaveeyam,"Drama, Musical            ",7.9
+1110,Nakshatram,Action            ,4.3
+1111,Subhalagnam,Drama            ,7.7
+1112,Hai Hai Nayaka,Comedy            ,7.7
+1113,Om Shanti,Romance            ,5.1
+1114,Pellaina Kothalo,Drama            ,6.2
+1115,Anukunnadi Okkati Ayyindhi Okati,"Comedy, Crime, Drama            ",5.6
+1116,Grahanam,Drama            ,8
+1117,Chinnabaabu,Drama            ,8.2
+1118,Karthavyam,"Action, Drama            ",7
+1119,Raakshasudu,"Action, Drama            ",7.4
+1120,Neeya,"Drama, Fantasy, Musical            ",6.2
+1121,D for Dopidi,"Comedy, Crime            ",5.8
+1122,Mugguru Kodukulu,"Action, Drama            ",7.5
+1123,Balachandrudu,Drama            ,7.4
+1124,Vinodam,Comedy            ,7.2
+1125,Vijay,"Action, Drama            ",8
+1126,Sri Shirdi Saibaba Mahathyam,Drama            ,7.7
+1127,Anthuleni Katha,"Drama, Family            ",7.7
+1128,Mithai,"Crime, Drama, Romance            ",4.4
+1129,Tiger,"Action, Crime, Romance            ",5.7
+1130,Luv U Alia,"Family, Romance            ",5.2
+1131,Brother of Bommali,"Action, Drama            ",5.8
+1132,Mr. Pellikodukku,"Comedy, Drama            ",5.2
+1133,Broker,Drama            ,7.3
+1134,Current,Romance            ,5.6
+1135,Evadi Gola Vadide,"Comedy, Drama, Romance            ",6.4
+1136,Bangaru Bullodu,"Action, Drama, Romance            ",7.3
+1137,Karma,"Drama, Mystery, Thriller            ",7.1
+1138,Murali Krishnudu,"Comedy, Romance            ",8.1
+1139,Varasudu,"Action, Drama            ",7
+1140,Seetha Rama Kalyanam,"Drama, Musical            ",7.7
+1141,Rendu Rella Aaru,Comedy            ,7.4
+1142,Sampoorna Ramayanam,"Drama, Family, Fantasy            ",7.7
+1143,Chuttalabbayi,Action            ,6.1
+1144,Columbus,Comedy            ,6.9
+1145,Raagala 24 Gantallo,Thriller            ,5.7
+1146,Andala Ramudu,Comedy            ,5.6
+1147,Brahma Puthrudu,Drama            ,7.9
+1148,Alibaba Aradajanu Dongalu,Comedy            ,7.1
+1149,Thipparaa Meesam,Romance            ,6.4
+1150,Sitaara,"Drama, Romance            ",7.6
+1151,Chettaniki Kallu Levu,"Action, Drama, Crime            ",7.8
+1152,Manasuku Nachindhi,Romance            ,6.1
+1153,Om 3D,"Action, Thriller            ",5.5
+1154,Action,Comedy            ,5
+1155,Dongala Bandi,Comedy            ,6
+1156,Sultan,Family            ,5.7
+1157,Love Today,"Drama, Romance            ",7.8
+1158,Samanyudu,Action            ,7.2
+1159,Sathruvu,"Action, Drama            ",7.5
+1160,Gandeevam,Drama            ,6.5
+1161,Punnami Naagu,"Drama, Horror            ",7.4
+1162,Jyothi Lakshmi,Drama            ,5.8
+1163,Avakai Biryani,"Family, Romance            ",6.9
+1164,Lorry Driver,"Action, Crime            ",7.3
+1165,Padaharella Vayasu,Drama            ,7.7
+1166,Prananiki Pranam,"Action, Drama, Family            ",8.2
+1167,Akasa Veedhilo,"Drama, Family            ",4.9
+1168,Totti Gang,Comedy            ,6.7
+1169,Allari,"Comedy, Romance            ",6.7
+1170,Savitri,"Comedy, Drama, Family            ",5.9
+1171,Peddinti Alludu,"Comedy, Romance            ",8.5
+1172,143,"Action, Romance, Thriller            ",5.2
+1173,Superman,"Fantasy, Musical, Sci-Fi            ",4.9
+1174,Abhinandana,"Drama, Romance            ",7.5
+1175,Justice Chowdhary,"Action, Drama            ",6.9
+1176,Gharana Bullodu,"Comedy, Romance            ",6.4
+1177,Intlo Ramayya Veedilo Krishnayya,"Comedy, Drama, Romance            ",7.6
+1178,Anna Thamudu,"Action, Drama            ",7.5
+1179,Krishnamma Kalipindi Iddarini,"Drama, Romance            ",7.3
+1180,Nandhi,"Action, Drama            ",7.2
+1181,Sons of Ram,"Animation, Drama, Musical            ",6.5
+1182,Kondapalli Raja,"Action, Drama            ",6.9
+1183,Bava Nachadu,"Comedy, Drama, Romance            ",3.9
+1184,Seema Simham,"Action, Drama            ",5
+1185,Sandade Sandadi,"Comedy, Drama            ",6.1
+1186,Donga Ramudu,Action            ,7.5
+1187,Vetagadu,"Action, Drama            ",6.9
+1188,Sher,Action            ,4.8
+1189,Kaamannana Makkalu,"Action, Comedy, Drama            ",6.8
+1190,Vinayakudu,"Comedy, Romance            ",7.1
+1191,Dongaata,Drama            ,6.9
+1192,90 ML,"Action, Drama, Romance            ",4.9
+1193,Kathanam,"Mystery, Thriller            ",3.9
+1194,Ramudu Bheemudu,"Comedy, Drama            ",7.5
+1195,Patel S.I.R,Action            ,5.4
+1196,Nagarahaavu,Fantasy            ,5.5
+1197,Selfie Raja,Comedy            ,5.6
+1198,Wish You Happy Breakup,"Comedy, Drama, Romance            ",7.4
+1199,Lovers,Romance            ,6.6
+1200,Ramudochhadu,"Action, Comedy, Drama            ",6.2
+1201,Radha Gopalam,Drama            ,6.3
+1202,Donga Mogudu,"Action, Comedy            ",7.3
+1203,Rangula Raatnam,Romance            ,6.2
+1204,Adda,Drama            ,6
+1205,Kalidasu,"Action, Drama, Romance            ",3.7
+1206,Ela Cheppanu,Romance            ,6.1
+1207,Vishwanatha Nayakudu,"Action, Drama, History            ",7.7
+1208,Sri Madvirat Veera Brahmendra Swamy Charitra,"Drama, History, Musical            ",7.7
+1209,Brahma,"Action, Comedy, Drama            ",5.4
+1210,Madatha Kaaja,Comedy            ,5.4
+1211,Dollar Dreams,Drama            ,7.9
+1212,Betting Bangarraju,Comedy            ,6.3
+1213,Athili Sathibabu LKG,Comedy            ,5.3
+1214,Vinara sodara veera kumara,"Drama, Romance            ",7.6
+1215,Tenali Ramakrishna,"Comedy, Drama            ",7.9
+1216,Maharshi,Romance            ,7.9
+1217,Idi Kathakaadu,"Drama, Family            ",8.1
+1218,Agni Nakshatram,Drama            ,8.5
+1219,Bandipotu,"Comedy, Crime, Drama            ",6.2
+1220,Onamalu,Drama            ,8
+1221,Vaana,Romance            ,6.5
+1222,Jodi,Romance            ,6.2
+1223,Madhumasam,Romance            ,6.6
+1224,Bhakta Prahlada,"Drama, Fantasy            ",7.1
+1225,Team 5,"Adventure, Sport            ",4.4
+1226,Sandhippoma,"Drama, Romance            ",8.2
+1227,Ice Cream 2,"Horror, Thriller            ",3.6
+1228,Okkadine,"Action, Romance            ",5.6
+1229,Kiccha Huccha,"Drama, Romance            ",6
+1230,Visakha Express,"Action, Crime, Drama            ",5
+1231,Aaviri,"Drama, Thriller            ",4.5
+1232,Brindavanam,"Comedy, Drama            ",7.4
+1233,Rudranetra,"Action, Crime, Thriller            ",6.7
+1234,Kaali,"Action, Drama            ",6.3
+1235,Bobbili Puli,"Action, Drama            ",7
+1236,Manavoori Pandavulu,Drama            ,8.2
+1237,Next Nuvve,Horror            ,5.8
+1238,Joru,Comedy            ,5.6
+1239,Ko antey koti,"Comedy, Crime, Romance            ",6.2
+1240,Kalyan Ram Kathi,"Action, Drama            ",6
+1241,Priyamyna Neeku...,"Drama, Romance            ",6.8
+1242,Vamsodharakudu,Drama            ,6.4
+1243,Super Police,"Action, Thriller            ",5.6
+1244,Bamma Maata Bangaru Baata,"Comedy, Drama            ",7.2
+1245,Mantra 2,"Comedy, Crime, Horror            ",4.5
+1246,Prema Ishq Kaadhal,Drama            ,6.8
+1247,Galipatam,Drama            ,5.7
+1248,Katha,Drama            ,6.5
+1249,Peddannayya,Drama            ,7.6
+1250,Lakshmi Kalyanam,"Action, Drama            ",5.3
+1251,Avunanna Kadanna,Romance            ,5.7
+1252,Bava Bava Panneeru,Comedy            ,7.5
+1253,Balakrishnudu,"Action, Comedy, Romance            ",4.6
+1254,Partha,"Action, Romance            ",7.1
+1255,Athade Oka Sainyam,Action            ,7.1
+1256,Rakshana,Drama            ,7.2
+1257,Garam,"Action, Romance            ",4.9
+1258,Raja Cheyyi Vesthe,"Action, Romance, Thriller            ",5.7
+1259,It's My Love Story,Romance            ,5.9
+1260,Okariki Okaru,Romance            ,7.7
+1261,Kurradu,Action            ,4.5
+1262,Homam,Action            ,5.8
+1263,Raahu,Thriller            ,6.6
+1264,Gulebakavali Katha,"Musical, Drama, Fantasy            ",8.2
+1265,Nene Raju Nene Manthri,nan,8
+1266,Osey Ramulamma,"Action, Drama            ",7.5
+1267,Trinetrudu,"Action, Crime, Thriller            ",7.3
+1268,Oka Oori Katha,"Comedy, Drama            ",7.5
+1269,Bhale Manchi Chowka Beram,"Comedy, Drama, Thriller            ",6.4
+1270,Bhairava Geetha,Drama            ,5
+1271,Naanna Nenu Naa Boyfriends,Family            ,4.5
+1272,Basanti,Action            ,6.5
+1273,Mansara,Drama            ,7.2
+1274,Gaayam 2,"Action, Crime, Drama            ",5.4
+1275,Village lo Vinayakudu,Action            ,6.7
+1276,Abbaigaru,Drama            ,7.2
+1277,Ammo Okato Tariku,Family            ,7.3
+1278,Raksha,Horror            ,6.1
+1279,Stoovertpuram Police Station,"Action, Drama            ",6.6
+1280,Srimanthudu,"Drama, Romance            ",7.2
+1281,Lakshmi Raave Maa Intiki,"Drama, Family, Romance            ",4.5
+1282,Mr. Theertha,"Action, Drama, Family            ",6.5
+1283,Ee Abbai Chala Manchodu,Comedy            ,5.1
+1284,Yemaindi Ee Vela,"Drama, Romance            ",5.4
+1285,Aadu Puli Attam,"Action, Drama, Thriller            ",6.6
+1286,Subhakankshalu,"Comedy, Drama            ",7.3
+1287,Samsaaram Oka Chadarangam,Drama            ,8
+1288,Intinti Bhagavatham,nan,8.1
+1289,Driver Ramudu,"Action, Drama            ",8.1
+1290,Saradaga Kasepu,Comedy            ,5.6
+1291,Snehithuda,Romance            ,5.6
+1292,Kaasi,Romance            ,6.7
+1293,Prema Pipasi,Romance            ,8.2
+1294,Uyarntha Ullam,"Action, Drama, Romance            ",7.3
+1295,Pekata Paparao,"Drama, Comedy            ",6.8
+1296,Praja pratinidhi,Comedy            ,8.4
+1297,Meghasandesam,"Drama, Musical            ",7.5
+1298,Joker,"Drama, Comedy, Family            ",7.1
+1299,Marana Mrudangam,Action            ,7.6
+1300,Maa Bhoomi,Drama            ,8.3
+1301,Kerintha,"Drama, Romance            ",6.5
+1302,Tripura,"Comedy, Horror            ",5.7
+1303,123,Comedy            ,5.7
+1304,Jaffa,Comedy            ,4.8
+1305,Jai Bolo Telangana,History            ,6.7
+1306,Nee Sneham,Drama            ,6.4
+1307,Maro Charitra,Romance            ,3.4
+1308,Aswamedham,"Action, Drama            ",7.1
+1309,Rachayitha,Romance            ,7.2
+1310,Terror,"Action, Thriller            ",7.1
+1311,Avunu Part 2,"Horror, Thriller            ",4.9
+1312,Kashi from Village,"Action, Drama            ",6.6
+1313,Aadu Magaadra Bujji,"Action, Comedy, Romance            ",5.9
+1314,Papikondalu,nan,8.3
+1315,RDX Love,Drama            ,3.2
+1316,Rajdooth,Drama            ,6.7
+1317,Classmates,"Drama, Mystery, Romance            ",6.1
+1318,Oka Radha Iddaru Krishnulu,"Comedy, Drama, Romance            ",6.8
+1319,Sri Kanaka Mahalakshmi Recording Dance Troupe,"Musical, Comedy, Drama            ",7.6
+1320,Sri Krishnarjuna Yudham,"Drama, Fantasy, History            ",8.1
+1321,Rambantu,"Family, Musical            ",7.3
+1322,Intlo Dayyam Nakemi Bhayam,"Comedy, Horror            ",4.7
+1323,Amrutham Chandamama Lo,"Adventure, Comedy, Fantasy            ",7.3
+1324,Nirmala Convent,Romance            ,6.2
+1325,Gruha Pravesam,Family            ,8.2
+1326,Beach Road Chetan,"Action, Drama, Sci-Fi            ",7.9
+1327,Undiporaadhey,Romance            ,7.2
+1328,Sardar Dharmanna,Drama            ,8.4
+1329,Biwi No. 2,Romance            ,5.8
+1330,Muddula Mavayya,"Action, Drama            ",7.8
+1331,Parugo Parugu,"Comedy, Crime            ",6.8
+1332,Top Hero,Drama            ,6.2
+1333,Allari Priyudu,"Drama, Romance            ",6.7
+1334,Jebu Donga,"Action, Comedy, Crime            ",7.3
+1335,Devatha,"Drama, Romance            ",7.7
+1336,Thayillamal Nannilai,"Action, Drama            ",6.5
+1337,Nandini Nursing Home,Comedy            ,7.2
+1338,Nenu,nan,6.5
+1339,Muddula Mogudu,Drama            ,7
+1340,Dhairyam,Romance            ,3.8
+1341,Pravarakyudu,Family            ,5.7
+1342,Choosi Choodangaane,Romance            ,7.1
+1343,Burra katha,"Comedy, Romance            ",5.1
+1344,Mayabazaar,"Comedy, Family            ",6.7
+1345,Panduranga Mahatyam,"Drama, History, Musical            ",8.2
+1346,Ankuram,Drama            ,7.9
+1347,Manthrigari Viyyankudu,"Action, Comedy, Drama            ",7.3
+1348,365 Days,"Drama, Romance            ",5.3
+1349,Maa Alludu Verygood,Romance            ,5.9
+1350,Nampalli Nagu,nan,8.5
+1351,Sambaram,Drama            ,5.8
+1352,Kurukshetramu,"Musical, Drama, Action            ",8.2
+1353,Chanakya Chandragupta,"Action, Drama, History            ",7.1
+1354,Parthal Pasi Theerum,"Drama, War            ",7.8
+1355,Krishnashtami,"Action, Comedy, Romance            ",5.2
+1356,Malaikottai,Action            ,5.2
+1357,Thakita Thakita,"Drama, Romance            ",6.5
+1358,Inkosari,Drama            ,6.5
+1359,Kalusukovalani,Romance            ,6.6
+1360,Raam,Drama            ,4.3
+1361,Neeku Nenu Naaku Nuvvu,Drama            ,4.8
+1362,Golmaal Govindam,"Comedy, Drama            ",7.2
+1363,Taskara,Thriller            ,6.2
+1364,SMS - Siva Manasulo Sruthi,Comedy            ,6.5
+1365,Nammanna,"Action, Drama            ",6.3
+1366,Neeku Naaku Dash Dash,Thriller            ,6.4
+1367,Sneha Geetham,Drama            ,6.4
+1368,Baachi,Action            ,4.7
+1369,Ammo Bomma,"Comedy, Horror, Thriller            ",6.1
+1370,Swagatam,Drama            ,5.8
+1371,Evadithe Nakenti,"Action, Crime, Drama            ",6.5
+1372,Mosagalaku Mosagaadu,Adventure            ,8.3
+1373,Kalyana Ramudu,nan,6.9
+1374,Chinnabbayi,"Drama, Action, Romance            ",5.2
+1375,Ugranarasimham,nan,8.6
+1376,Paramanandayya Shishyula Katha,"Drama, Musical            ",8.1
+1377,Adhugo,Drama            ,6.1
+1378,Seethamma Andalu Ramayya Sitralu,"Comedy, Romance            ",4.2
+1379,Run,"Action, Drama, Romance            ",5.4
+1380,Raaj,"Drama, Romance            ",4.6
+1381,Takkari,Comedy            ,4.5
+1382,Victory,"Action, Drama            ",4.3
+1383,Screenplay of an Indian Love Story,Drama            ,8.9
+1384,Chal Mohana Ranga,Drama            ,8.2
+1385,Andha Oru Nimidam,"Action, Crime, Drama            ",7
+1386,Maavichiguru,Drama            ,6.4
+1387,Sri Krishnarjuna Vijayam,"Action, Drama, Fantasy            ",7.1
+1388,Gudachari No.1,"Action, Thriller            ",7
+1389,Billa Ranga,"Action, Crime, Family            ",7.8
+1390,Vicky Dada,"Action, Crime            ",7.4
+1391,Kondura (The Sage from the Sea),Drama            ,7.4
+1392,Money Money More Money,Comedy            ,4.3
+1393,President Gari Pellam,Drama            ,6.5
+1394,Evaraina Eppudaina,Romance            ,4.9
+1395,Maro Monagadu,nan,8.6
+1396,Jakkanna,"Comedy, Drama            ",6.3
+1397,Muvva Gopaludu,"Drama, Romance            ",7.8
+1398,Ninney Ishta Paddaanu,nan,5.9
+1399,9 Nelalu,Drama            ,7.3
